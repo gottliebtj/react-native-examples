@@ -29,12 +29,12 @@ export default {
       favicon: './assets/favicon.png'
     },
     extra: {
-      apiKey: process.env.API_KEY,
-      authDomain: process.env.AUTH_DOMAIN,
-      projectId: process.env.PROJECT_ID,
-      storageBucket: process.env.STORAGE_BUCKET,
-      messagingSenderId: process.env.MESSAGING_SENDER_ID,
-      appId: process.env.APP_ID
-    }
+  apiKey: "AIzaSyDRfogi1PBhOFLVN4XHB_dhxuF51XGhip8",
+  authDomain: "pusheez-362b4.firebaseapp.com",
+  projectId: "pusheez-362b4",
+  storageBucket: "pusheez-362b4.appspot.com",
+  messagingSenderId: "850070414754",
+  appId: "1:850070414754:web:840ad4602404cdb752fefb"
+}
   }
 };
